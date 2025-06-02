@@ -2,6 +2,11 @@
 
 Welcome to my personal portfolio website! This project is my very first personal portfolio that I built to showcase my skills, projects, and contact information in a clean and responsive design. It was a great learning experience that helped me understand HTML, CSS, and basic web design principles.
 
+## Demo
+
+You can see the live version of this portfolio here:  
+[https://najmeh25.github.io/firstPersonalPortfolio/](https://najmeh25.github.io/firstPersonalPortfolio/)
+
 ## Table of Contents
 
 - [About](#about)
